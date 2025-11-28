@@ -35,7 +35,7 @@ El archivo **`scripts para la base de datos clinica53.sql`** no solo crea las ta
 
 Para levantar el esquema de la base de datos, sigue los siguientes pasos utilizando tu cliente SQL favorito (**DBeaver** o **MySQL Workbench**):
 
-1.  **Requisitos:** Tener instalado un servidor **MySQL** o **MariaDB**.
+1.  **Requisitos:** Tener instalado un servidor **MySQL** o **MariaDB**. En mi caso personal funcionó con phpMyAdmin y workbench.
 2.  **Crear Base de Datos:** Abre tu cliente SQL y ejecuta la siguiente instrucción para inicializar el esquema:
     ```sql
     CREATE DATABASE clinica53;
